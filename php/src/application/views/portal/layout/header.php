@@ -90,9 +90,9 @@
                             <li>
                                 <a href="#">Lomba</a>
                                 <ul class="sub-menu">
-                                <li><a href="about.html">Morse</a></li>
-                                    <li><a href="team.html">Fox Hunting</a></li>
-                                    <li><a href="pricing.html">Dll</a></li>
+                                <li><a href="#">Morse</a></li>
+                                    <li><a href="#">Fox Hunting</a></li>
+                                    <li><a href="#">Dll</a></li>
            
                                 </ul>
                             </li>
@@ -160,16 +160,16 @@
                             <li>
                                 <a href="#">Pendaftaran </a>
                                 <ul class="sub-menu">
-                                    <li><a href="services.html">Lokal</a></li>
-                                    <li><a href="service-details.html"> Lomba</a></li>
+                                    <li><a href="#">Lokal</a></li>
+                                    <li><a href="#"> Lomba</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="#">Lomba</a>
                                 <ul class="sub-menu">
-                                    <li><a href="about.html">Morse</a></li>
-                                    <li><a href="team.html">Fox Hunting</a></li>
-                                    <li><a href="pricing.html">Dll</a></li>
+                                    <li><a href="#">Morse</a></li>
+                                    <li><a href="#">Fox Hunting</a></li>
+                                    <li><a href="#">Dll</a></li>
            
                                 </ul>
                             </li>
