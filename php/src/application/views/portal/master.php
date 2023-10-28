@@ -204,7 +204,7 @@
                         <div class="col-lg-4 col-sm-6">
                             <div class="counter-item counter-left m-b-40">
                                 <div class="counter-wrap">
-                                    <span class="counter">35</span>
+                                    <span class="counter">27</span>
                                 </div>
                                 <p class="title">
                                     Lokal

@@ -74,31 +74,31 @@
                                 </ul> -->
                             </li>
                             <li>
-                                <a href="blog-standard.html">Informasi</a>
+                                <a href="#">Informasi</a>
                                 <!-- <ul class="sub-menu">
                                     <li><a href="blog-standard.html">Blog Standard</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                 </ul> -->
                             </li>
                             <li>
-                                <a href="services.html">Pendaftaran </a>
+                                <a href="#">Pendaftaran </a>
                                 <ul class="sub-menu">
-                                    <li><a href="services.html">Lokal</a></li>
-                                    <li><a href="service-details.html"> Lomba</a></li>
+                                    <li><a href="#">Lokal</a></li>
+                                    <li><a href="#"> Lomba</a></li>
                                 </ul>
                             </li>
                             <li>
                                 <a href="#">Lomba</a>
                                 <ul class="sub-menu">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="team.html">Our Team</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
+                                <li><a href="about.html">Morse</a></li>
+                                    <li><a href="team.html">Fox Hunting</a></li>
+                                    <li><a href="pricing.html">Dll</a></li>
            
                                 </ul>
                             </li>
                          
                             <li>
-                                <a href="contact.html">Hubungi Kami</a>
+                                <a href="#">Hubungi Kami</a>
                             </li>
                         </ul>
                     </nav>
@@ -106,7 +106,7 @@
                 <div class="header-right">
                     <ul class="header-extra">
                         <li class="d-none d-md-block">
-                            <a href="services.html" class="template-btn">
+                            <a href="#" class="template-btn">
                                 Lat's Go !! <i class="fas fa-arrow-right"></i>
                             </a>
                         </li>
@@ -151,14 +151,14 @@
                                 </ul> -->
                             </li>
                             <li>
-                                <a href="blog-standard.html">Informasi</a>
+                                <a href="#">Informasi</a>
                                 <!-- <ul class="sub-menu">
                                     <li><a href="blog-standard.html">Blog Standard</a></li>
                                     <li><a href="blog-details.html">Blog Details</a></li>
                                 </ul> -->
                             </li>
                             <li>
-                                <a href="services.html">Pendaftaran </a>
+                                <a href="#">Pendaftaran </a>
                                 <ul class="sub-menu">
                                     <li><a href="services.html">Lokal</a></li>
                                     <li><a href="service-details.html"> Lomba</a></li>
@@ -167,15 +167,15 @@
                             <li>
                                 <a href="#">Lomba</a>
                                 <ul class="sub-menu">
-                                    <li><a href="about.html">About Us</a></li>
-                                    <li><a href="team.html">Our Team</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
+                                    <li><a href="about.html">Morse</a></li>
+                                    <li><a href="team.html">Fox Hunting</a></li>
+                                    <li><a href="pricing.html">Dll</a></li>
            
                                 </ul>
                             </li>
                          
                             <li>
-                                <a href="contact.html">Hubungi Kami</a>
+                                <a href="#">Hubungi Kami</a>
                             </li>
                         </ul>
                 </nav>
