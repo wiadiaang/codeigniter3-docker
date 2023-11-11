@@ -1,64 +1,76 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?><!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
-<meta charset="utf-8">
-<title>404 Page Not Found</title>
-<style type="text/css">
+	<meta charset="UTF-8">
+	<meta content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no" name="viewport">
+	<title>404 &mdash; Halaman Tidak Di Temukan</title>
+	<!-- General CSS Files -->
+	<link rel="stylesheet" href="../../../../vendor/back-end/assets/css/bootstrap.min.css">
+	<script src="../../../../vendor/back-end/assets/js/bootstrap.bundle.min.js"></script>
 
-::selection { background-color: #E13300; color: white; }
-::-moz-selection { background-color: #E13300; color: white; }
+	<link rel="stylesheet" href="../../../../vendor/back-end/assets/fonts/fontawesome/css/all.css" rel="stylesheet">
+	<!-- CSS Libraries -->
 
-body {
-	background-color: #fff;
-	margin: 40px;
-	font: 13px/20px normal Helvetica, Arial, sans-serif;
-	color: #4F5155;
-}
+	<!-- Template CSS -->
+	<link rel="stylesheet" href="../../../../vendor/back-end/assets/css/style.css">
+	<link rel="stylesheet" href="../../../../vendor/back-end/assets/css/components.css">
+	<!-- <link rel="stylesheet" href="../../../../vendor/back-end/assets/css/style.css"> -->
 
-a {
-	color: #003399;
-	background-color: transparent;
-	font-weight: normal;
-}
-
-h1 {
-	color: #444;
-	background-color: transparent;
-	border-bottom: 1px solid #D0D0D0;
-	font-size: 19px;
-	font-weight: normal;
-	margin: 0 0 14px 0;
-	padding: 14px 15px 10px 15px;
-}
-
-code {
-	font-family: Consolas, Monaco, Courier New, Courier, monospace;
-	font-size: 12px;
-	background-color: #f9f9f9;
-	border: 1px solid #D0D0D0;
-	color: #002166;
-	display: block;
-	margin: 14px 0 14px 0;
-	padding: 12px 10px 12px 10px;
-}
-
-#container {
-	margin: 10px;
-	border: 1px solid #D0D0D0;
-	box-shadow: 0 0 8px #D0D0D0;
-}
-
-p {
-	margin: 12px 15px 12px 15px;
-}
-</style>
 </head>
+
 <body>
-	<div id="container">
-		<h1><?php echo $heading; ?></h1>
-		<?php echo $message; ?>
+	<div id="app">
+		<section class="section">
+			<div class="container mt-5">
+				<div class="d-flex align-items-center justify-content-center">
+					<lottie-player src="../../../../vendor/back-end/assets/plugins/lottie/error404.json" background="transparent" speed="1" style="width: 200px; height: 200px;" loop autoplay class="dashboard-img"></lottie-player>
+				</div>
+				<div class="page-error">
+					<div class="page-inner">
+						<div class="page-description">
+							<h3>404 Halaman Tidak Di Temukan</h3>
+						</div>
+						<div class="page-search">
+							<form>
+								<div class="form-group floating-addon floating-addon-not-append">
+									<div class="input-group">
+										<div class="input-group-prepend">
+											<div class="input-group-text">
+												<i class="fas fa-search"></i>
+											</div>
+										</div>
+										<input type="text" class="form-control" placeholder="Search">
+										<div class="input-group-append">
+											<button class="btn btn-primary btn-lg">
+												Search
+											</button>
+										</div>
+									</div>
+								</div>
+							</form>
+							<div class="mt-2">
+								<a href="index.php">Kembali Ke Dashboard</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="simple-footer mt-1">
+					Copyright &copy;<script>
+						document.write(new Date().getFullYear());
+					</script>
+				</div>
+			</div>
+		</section>
 	</div>
+	<!-- General JS Scripts -->
+	<script src="../../../../vendor/back-end/assets/js/jquery-3.3.1.min.js"></script>
+	<script src="../../../../vendor/back-end/assets/js/bootstrap.min.js"></script>
+	<!-- lottie -->
+	<script src="../../../../vendor/back-end/assets/plugins/lottie/lottie-player.js"></script>
+	<!-- MAIN JS -->
+	<script src="../../../../vendor/back-end/assets/js/main.js"></script>
+	<!-- Page Specific JS File -->
 </body>
+
 </html>

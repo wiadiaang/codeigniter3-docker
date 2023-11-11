@@ -1,14 +1,14 @@
 version: '3.8'
 services:
   php-apache-environment:
-    container_name: php-apache-ci
+    container_name: jbfd2023-orari
     build: 
       context: ./php
       dockerfile: Dockerfile
     # depends_on:
     #   - db
     volumes:
-      - ./php/src:/var/www/html/
+      - ./php/src:/var/www/html
     ports:
       - 7700:80
   # db:
